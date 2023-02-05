@@ -12,9 +12,10 @@ Pkg.add("Plots")
 Pkg.add("LaTeXStrings")
 Pkg.add("StatsBase")
 
-cd("PSet2/")
+cd("/Users/reiko/Documents/heterogeneity/PSet2/")
+
 
 # Run programs
 # include("GMM.jl")
-# include("Rouwenhorst_method.jl")
+include("Rouwenhorst_method.jl")
 # include("IFP.jl")
